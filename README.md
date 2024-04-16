@@ -1,1 +1,1 @@
-# skin-disease-prediction
+The aim of using a machine learning model for skin disorder disease is to enhance diagnostic accuracy and streamline treatment recommendations, ultimately improving patient outcomes and reducing healthcare costs.
